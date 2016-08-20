@@ -1,0 +1,17 @@
+mysqld
+mysql -u root
+mysqladmin -u root shutdown
+
+show databases;
+create database nombre;
+use nombreBase;
+create database if not exists nombre;
+show warnings;
+create table nombreTabla (Matricula INT UNSIGNED, Nombre VARCHAR(50), PRIMARY KEY(Matricula));
+show tables;
+describe nombreTabla;
+alter table nombreTabla ADD Algo VARCHAR(30) NOT NULL;
+insert into nombreTabla (Matricula, Nombre) values (130220, 'Gerardo Franco');
+select Matricula, Nombre from nombreTabla;
+select Matricula, Nombre from nombreTabla where Matricula=130220;
+update nombreTabla set Edad=22 where  Matricula=130220;

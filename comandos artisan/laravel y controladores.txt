@@ -1,0 +1,2 @@
+laravel new NombreProyecto
+php artisan make:controller PhotoController

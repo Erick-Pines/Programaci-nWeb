@@ -1,0 +1,11 @@
+start chrome
+mkdir borrar
+dir > borrar/archivo.txt
+cd borrar
+archivo.txt
+ifconfig/all > borrar/archivo2.txt
+cd directorio
+color 2
+rmdir borrar
+pause
+rmdri /s dir

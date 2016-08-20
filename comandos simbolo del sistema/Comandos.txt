@@ -1,0 +1,346 @@
+CONTROL : abre el panel de control 
+CONTROL ADMINTOOLS : abre las herramientas administrativas 
+CONTROL KEYBOARD : abre las propiedades del teclado 
+CONTROL COLOR : abre las propiedades de pantalla 
+CONTROL FOLDERS : abre las opciones de carpeta 
+CONTROL FONTS : abre las fuentes 
+CONTROL INTERNATIONAL o INTL.CPL : abre la configuración regional y de idioma 
+CONTROL MOUSE o MAIN.CPL : abre las propiedades del mouse 
+CONTROL USERPASSWORDS : abre las cuentas de usuario 
+CONTROL USERPASSWORDS2 o NETPLWIZ : administración de usuarios y su acceso 
+CONTROL /NAME MICROSOFT.BACKUPANDRESTORECENTER : abre el centro de respaldo y recuperación (Para Windows Vista únicamente). 
+CONTROL PRINTERS : impresoras y faxes disponibles 
+APPWIZ.CPL : abre agregar o quitar programas 
+OPTIONALFEATURES : abre la herramienta agregar o quitar componentes Windows (únicamente para Vista) 
+DESK.CPL : abre las propiedades de pantalla 
+HDWWIZ.CPL : abre el asistente para agregar hardware 
+INFOCARDCPL.CPL : abre el asistente de compatibilidad de programas 
+IRPROPS.CPL : abre la utilidad de infrarojo 
+ISCSICPL : abre la herramienta de configuración del iniciador ISCI Microsoft (únicamente para Vista) 
+JOY.CPL : abre el dispositivo de juegos 
+MMSYS.CPL : abre las propiedades de dispositivos de sonido y audio 
+SYSDM.CPL : abre las propiedades del sistema 
+TABLETPC.CPL : abre la configuración para Tablet pc (únicamente para Vista) 
+TELEPHON.CPL : abre la herramienta de información de la ubicación 
+TIMEDATE.CPL : abre las propiedades de fecha y hora 
+WSCUI.CPL : abre el centro de seguridad de Windows 
+ACCESS.CPL : abre las opciones de accesibilidad (únicamente para XP) 
+WUAUCPL.CPL : abre el servicio de actualizaciones automáticas de Windows (únicamente para XP) 
+POWERCFG.CPL : abre el administrador de opciones de energía 
+COLLAB.CPL : abre la visualización instantánea (únicamente para Vista) 
+AZMAN.MSC : abre el administrador de autorización (únicamente para Vista) 
+CERTMGR.MSC : abre los certificados para el usuario actual 
+COMPMGMT.MSC : abre la administración de equipos 
+COMEXP.MSC o DCOMCNFG : abre los servicio de componentes (únicamente para Vista) 
+DEVMGMT.MSC : abre el Administrador de dispositivos. Tutorial AQUI 
+EVENTVWR o EVENTVWR.MSC : abre el Visor de sucesos 
+FSMGMT.MSC : abre las carpetas compartidas 
+NAPCLCFG.MSC : abre la herramienta de configuración del cliente NAP (únicamente para Vista) 
+SERVICES.MSC : abre el administrador de Servicios 
+TASKSCHD.MSC o CONTROL SCHEDTASKS : abre el planificador de tareas (únicamente para Vista) 
+GPEDIT.MSC : abre el editor de directiva de grupo (para las ediciones profesionales y más de Windows) 
+LUSRMGR.MSC : abre el editor de usuarios locales y grupos 
+SECPOL.MSC : abre la configuración de seguridad local 
+NTMSMGR.MSC : abre el administrador de medios de almacenamiento extraíbles 
+NTMSOPRQ.MSC : abre las solicitudes del operador de medios de almacenamiento extraíbles 
+RSOP.MSC : abre el conjunto resultante de directivas 
+WMIMGMT.MSC : abre Windows Management Infrastructure 
+TPM.MSC : abre la herramienta gestión de modulo de plataforma protegida en el equipo local (únicamente para Vista) 
+PERFMON o PERFMON.MSC : abre el monitor de rendimiento de Windows. 
+MMC : abre una nueva consola vacía 
+MDSCHED : abre la herramienta de diagnostico de la memoria (únicamente para Vista) 
+DXDIAG : abre la herramienta de diagnostico de DirectX 
+ODBCAD32 : abre el administrador de orígenes de datos ODBC 
+REGEDIT o REGEDT32 (únicamente para Vista) : abre el editor del registro 
+DRWTSN32 : abre Dr. Watson (Pour XP uniquement) 
+VERIFIER : abre el administrador del comprobador de controlador 
+CLICONFG : abre la herramienta de configuración de cliente de red SQL 
+UTILMAN : abre el administrador de utilidades *COMPUTERDEFAULTS : abre la herramienta de programas predeterminados (únicamente para Vista) 
+CREDWIZ : abre la ventana para hacer copias de seguridad y restaurar contraseñas de usuarios (únicamente para Vista)
+LPKSETUP : abre el asistente de instalación y desinstalación de idiomas (únicamente para Vista) 
+MOBSYNC : abre elementos para sincronizar 
+REKEYWIZ : abre el administrador de certificados de cifrado de archivos (únicamente para Vista) 
+SLUI : abre el asistente de activación de Windows (únicamente para Vista) 
+MSCONFIG : abre la utilidad de configuración del sistema 
+SYSEDIT : abre el editor de configuración del sistema (atención, manipular con prudencia) 
+SYSKEY : abre la herramienta de protección de la base de datos de cuentas de Windows (atención, manipular con mucha prudencia!) 
+
+Programas y herramientas de Windows 
+EXPLORER : abre el explorador de Windows 
+IEXPLORE : abre Internet Explorer 
+WAB : abre la libreta de direcciones (únicamente para Vista) 
+CHARMAP : abre la tabla de caracteres 
+MSPAINT : abre Paint 
+WRITE o Wordpad : abre Wordpad 
+NOTEPAD : abre el bloc de notas 
+SNIPPINGTOOL : abre la herramienta de captura de pantalla (únicamente para Vista). Tutorial AQUI 
+CALC : abre la calculadora 
+CLIPBRD : abre el portapapeles (para XP únicamente, para añadirlo a Vista ver AQUI) 
+WINCHAT : abre el programa de Microsoft de chat en red (para Windows XP únicamente) 
+SOUNDRECORDER : abre el altavoz 
+DVDPLAY : ejecuta la unidad de DVD 
+WMPLAYER : abre Windows Media Player 
+MOVIEMK : abre Windows Movie Maker 
+JOURNAL : abre un nuevo journal (únicamente para Vista) 
+STIKYNOT : abre el recordatorio (únicamente para Vista) 
+OSK : muestra el teclado en pantalla. Tutorial AQUI 
+TABTIP : abre el panel de ingreso de datos Tablet PC (únicamente para Vista) 
+MAGNIFY : abre la lupa 
+WINCAL : abre el calendario de Windows (únicamente para Vista) 
+DIALER : abre el marcador telefónico de Windows 
+EUDCEDIT : abre el editor de caracteres privados 
+SNDVOL : ajusta las propiedades del volumen 
+RSTRUI : abre la herramienta de restauración del sistema (únicamente para Vista) 
+%WINDIR%SYSTEM32RESTORERSTRUI.EXE : abre la herramienta de restauración del sistema (para XP únicamente). Tutorial AQUI 
+MSINFO32 : abre la informacion del sistema 
+MRT : abre la herramienta de eliminación de software malintencionado de Windows. Tutorial AQUI 
+TASKMGR : abre el administrador de tareas de Windows 
+CMD : abre la consola 
+MIGWIZ : abre el asistente para transferencia de archivos y configuraciones (únicamente para Vista) 
+MIGWIZ.EXE : abre el asistente para transferencia de archivos y configuraciones (para XP únicamente) 
+SIDEBAR : abre la barra de Windows (únicamente para Vista) 
+SIGVERIF : abre la herramienta de comprobación de la firma del archivo 
+WINVER : abre la ventana Acerca de Windows para conocer la versión de Windows 
+FSQUIRT : abre el asistente para la transferencia de archivos Bluetooth 
+IEXPRESS : abre el asistente de archivos auto-extraíbles. Tutorial AQUI 
+MBLCTR : abre l centro de movilidad de Windows (únicamente para Vista) 
+MSRA : abre el asistente remoto de Windows 
+MSTSC : abre la herramienta de conexión a escritorio remoto 
+MSDT : abre la herramienta de diagnostico y soporte de Microsoft 
+ARP	Mantiene en cache la correspondencia entre las direcciones IP y las direcciones físicas del adaptador o tarjeta de red. Es utilizado en tareas de redes para optimizar el rendimiento de las conexiónes y para solucionar conflictos.
+« Ejemplos del uso de ARP: Como utilizar el comando ARP
+ASSOC	Muestra o modifica las asociaciones de las extensiones de archivos, o sea la acción que Windows debe realizar de acuerdo a la extensión que posea el archivo.
+« Ejemplos del uso de ASSOC: Reparar y restaurar las asociaciones de archivos en Windows
+AT	El comando AT programa la ejecución de comandos y programas en un equipo a una hora y fecha especificadas. El servicio de programación debe estar en ejecución para utilizar el comando AT.
+« Ejemplos del uso de AT: Como programar tareas y eventos con el comando AT
+ATTRIB	Muestra o cambia los atributos de un archivo. En Windows se le asigna a cada archivo, de acuerdo a la función o al objetivo que van a desempeñar en el equipo un atributo, ya sea de archivo oculto, de sistema, solo lectura, etc. Con el comando ATTRIB es posible saber los establecidos en un archivo determinado y retirárselo o asignarle otro.
+« Ejemplos del uso de ATTRIB: Ejemplos prácticos del uso del comando ATTRIB
+AUDITPOL	Es usado para mostrar o cambiar configuraciones de permisos
+BITSADMIN	Es usado para crear, administrar y monitorear tareas de descargas y subidas de archivos.
+BREAK	Establece o elimina la comprobación extendida de Ctrl+C en la consola.
+BCDBOOT	Herramienta de reparación y creación de archivos de arranque BCD. La herramienta de línea de comandos bcdboot.exe se usa para copiar archivos de arranque imprescindibles a la partición del sistema y para crear un nuevo almacén de BCD en el sistema.
+BCDEDIT	Editor de la base de datos de la configuración de arranque (BCD) del equipo.
+Podemos usarlo para establecer el orden de los sistemas operativos, su nombre en el menú de arranque, usar sistemas en discos virtuales, habilitar o deshabilitar efectos, etc.
+Lee como utilizarlo: Usar BCDEDIT para modificar el arranque de Windows
+BOOTCFG	Esta herramienta de la línea de comandos se puede usar para configurar, consultar, cambiar o eliminar la configuración de la entrada de arranque en el archivo BOOT.INI en sistemas operativos anteriores a Windows Vista.
+CACLS	Muestra o modifica las listas de control de acceso (ACLs) de archivos.
+« Ejemplos del uso de CACLS: Usar CACLS para cambiar permisos a archivos y carpetas del sistema.
+CALL	Llama un segundo archivo batch desde uno en ejecución o sea permite ejecutarlos en forma de cadena secuencialmente.
+CD	Muestra el nombre o cambia al directorio actual. Es uno de los comandos mas empleados, usado para iniciar una acción directamente en un directorio determinado.
+Observa varios ejemplos: Usar el comando CD o CHDIR
+CHCP	Muestra o establece el número de página de códigos activa.
+CHDIR	Muestra el nombre o cambia al directorio actual, igual que CD
+CHKDSK	Chequea, comprueba y repara errores de disco. Es uno de los comandos mas importantes que incluye Windows, con funcionalidades superiores a los programas o aplicaciones creados para estas tareas.
+« Ejemplos del uso de CHKDSK: 
+Como comprobar y reparar discos duros con el comando CHKDSK
+Usar CHKDSK en Windows 8 para la reparación de los discos duros
+CHKNTFS	Muestra o modifica la comprobación del disco de sistema antes de iniciar Windows
+CHOICE	Esta herramienta permite que los usuarios seleccionen un elemento de una lista de opciones y devuelve el índice de la opción seleccionada.
+CIPHER	Muestra o altera el cifrado de directorios [archivos] en particiones NTFS.
+CLEANMGR	Libera espacio innecesario en disco. Posee varias opciones para personalizar la tarea y las guarda en memoria.
+« Ejemplos del uso de CLEANMGR: Como liberar espacio en disco usando el comando CLEANMGR
+CLIP	Redirecciona el resultado de las herramientas de la línea de comandos al Portapapeles de Windows. Esta salida de texto se puede pegar en otros programas.
+CLS	Borra los símbolos o el texto en la pantalla de la consola. Se usa como una especie de borrador. Sin opciones, solo es necesario introducir CLS y presionar Enter.
+CMD	Inicia una nueva instancia de la consola, con opciones para abrir una nueva ventana.
+CMDKEY	Crea, presenta y elimina nombres de usuario y contraseñas almacenados.
+COLOR	Establece los colores de primer plano y fondo de la consola
+« Ejemplos del uso de COLOR: Como configurar los colores de la consola y los archivos batch usando el comando COLOR
+COMP	Compara el contenido de dos archivos o un conjunto de archivos.
+COMPACT	Muestra o cambia el estado de compresión de archivos en particiones NTFS.
+CONVERT	Convierte volúmenes FAT a volúmenes NTFS. No puede convertir la unidad actual.
+COPY	Copia uno o más archivos en otra ubicación
+CSCRIPT	Permite ejecutar en la consola archivos VBS conteniendo scripts escritos en lenguaje VBScript. También puede utilizarse en archivos batch con la opción //B, con lo que se evitarán los mensajes de error y avisos de secuencias de comandos
+
+
+
+DATE	Muestra o establece la fecha.
+DEL	Elimina uno o más archivos.
+DEFRAG	Localiza y consolida archivos fragmentados en volúmenes locales para mejorar el rendimiento del sistema.
+« Ejemplos del uso de DEFRAG: Como desfragmentar discos duros usando el comando DEFRAG
+DIR	Muestra una lista de archivos y subdirectorios en un directorio.
+DISM	Ofrece información, instala, desinstala, configura y actualiza características adicionales y paquetes de imágenes de Windows.
+Por ejemplo, para mostrar las características instaladas de Windows que se pueden desinstalar usa:
+DISM.exe /Online /English /Get-Features /Format:Table
+Lee como usar DISM para habilitar en Windows 8 Framework 3.5: Como instalar y habilitar .NET Framework en Windows
+DISKCOMP	Compara el contenido de dos disquetes.
+DISKCOPY	Copia el contenido de un disquete en otro.
+DISKPART	Muestra o configura las propiedades de partición de disco.
+DOSKEY	Edita líneas de comando, memoriza comandos de Windows y crea macros.
+« Ejemplos del uso de DOSKEY: Crear macros con DOSKEY en la consola de cmd, guardar y cargar macros
+DRIVERQUERY	Muestra el estado y las propiedades actuales del controlador de dispositivo.
+ECHO	Muestra mensajes, o activa y desactiva el eco
+ENDLOCAL	Termina la búsqueda de variables de entorno del archivo por lotes
+ERASE	Elimina uno o más archivos, igual que DEL
+EXPAND	Expande uno o varios archivos comprimidos
+EXIT	Sale del programa CMD.EXE (interfaz de comandos)
+
+
+
+FC	Compara dos archivos o conjunto de archivos y muestra las diferencias entre ellos
+FIND	Busca una cadena de texto en uno o más archivos.
+« Ejemplos del uso de FIND: Ejemplos prácticos del uso del comando FIND
+FINDSTR	Busca cadenas de texto en archivos.
+« Ejemplos del uso de FINDSTR: Ejemplos prácticos del uso del comando FINDSTR
+FOR	Ejecuta un comando de forma simultánea en varios archivos, permite reducir la cantidad de código necesario en varias tareas. Es uno de los comandos que ofrece mayores beneficios prácticos.
+« Ejemplos del uso de FOR: Ejemplos prácticos del uso del comando FOR con todas sus opciones.
+FORFILES	Comando de uso algo similar a FOR, selecciona uno o varios archivos y ejecuta un comando en cada uno de ellos. Permite multitud de opciones útiles poco explotadas.
+« Ejemplos del uso de FORFILES: Ejemplos prácticos del uso del comando FORFILES
+FORMAT	Permite darle diferentes formatos a discos duros u otros dispositivos para usarlo con Windows
+« Ejemplos del uso de FORMAT: Ejemplos prácticos del uso del comando FORMAT.
+FSUTIL	Muestra o configura las propiedades de sistema de archivos. Posee varios subcomandos para la administración efectiva del sistema de archivos y volúmenes.
+« Ejemplos del uso de FSUTIL: Ejemplos prácticos del uso del comando FSUTIL.
+FTYPE	Muestra o modifica los tipos de archivo usados en una asociación de extensión de archivo
+GETMAC	Muestra la MAC Address o dirección física del adaptador de red de existir uno en el equipo.
+Mas informacion: ¿Qué es la MAC Address de un equipo y como saberla?
+GOTO	Direcciona el intérprete de comandos de Windows a una línea en un archivo batch.
+« Ejemplos del uso de GOTO: Ejemplos prácticos del uso del comando GOTO en archivos batch.
+GPRESULT	Muestra información de directivas de grupo por equipo o usuario
+GPUPDATE	Actualiza los cambios hechos en el Editor de directivas de grupo local.
+Permite que se active cualquiera de las directivas establecidas ya sea inmediatamente, al reiniciar o al iniciar sesión.
+Para lograr que se activen inmediatamente usa: GPUPDATE /force
+GRAFTABL	Permite a Windows mostrar un juego de caracteres extendidos en modo gráfico
+HELP	Proporciona información de ayuda para los comandos de Windows
+ICACLS	Muestra, modifica, hace copias de seguridad o restaura listas de control de acceso (ACL) para archivos y directorios
+IF	Ejecuta comandos de forma condicional, se utiliza para definir valores de error, comparar cadenas, demostrar existencia de archivos y hacer comparaciones matemáticas entre otros.
+« Ejemplos del uso de IF: Ejemplos prácticos del uso del comando IF en archivos batch.
+IPCONFIG	Muestra los parametros de una conexion de red. De forma predeterminada, se muestra solamente la dirección IP, la máscara de subred y la puerta de enlace predeterminada para cada adaptador enlazado conTCP/IP.
+« Ejemplos del uso de IPCONFIG: Como usar el comando IPCONFIG. Ejemplos prácticos
+LABEL	Crea, cambia o elimina la etiqueta del volumen de un disco
+LOGMAN	Permite manejar y administrar el Monitor de rendimiento de Windows desde la línea de comandos
+MEM	Muestra la cantidad de memoria libre y usada en el sistema
+MD	Crea un directorio o carpeta
+MKDIR	Crea un directorio, igual que el anterior
+MKLINK	Crea vínculos simbólicos y vínculos físicos
+MODE	Configura un dispositivo de sistema
+MORE	Muestra la información pantalla por pantalla
+MOVE	Mueve uno o más archivos de un directorio a otro en la misma unidad
+MSINFO32	Inicia la herramienta Información del sistema que muestra datos técnicos del equipo y sistema operativo.
+MSTSC	Inicia una conexion remota al escritorio
+
+
+
+NBTSTAT	Muestra las estadísticas del protocolo y las conexiones actuales de TCP/IP usando NBT (NetBIOS sobre TCP/IP)
+NET	Configura una amplia variedad de parametros en redes.
+Ver todos los comandos
+NETCFG	Es utilizado para instalar Windows Preinstallation Environment (WinPE), una version minima y ligera de Windows usada por desarrolladores
+NETSH	El comando NETSH (Network Shell) permite configurar, determinar conflictos y administrar diferentes componentes de redes mediante la línea de comandos de forma local o remota.
+Muestra y configura el estatus de los componentes de los protocolos de redes instalados. Los comandos de Netsh están organizado en forma de árbol, cada tecnología y protocolo tiene su propio contexto.
+Ver todos los comandos
+NETSTAT	Muestra estadísticas del protocolo y conexiones TCP/IP actuales. Permite el monitoreo de todas las conexiones activas 
+« Ejemplos del uso de NETSTAT: Como ver todas las estadísticas de una conexión usando el comando NETSTAT
+NLSFUNC	Carga la informacion especifica de un pais o region
+NLTEST	El comando NLTEST se utiliza para realizar pruebas mediante canales seguros entre los ordenadores Windows de diferentes dominios y entre controladores de dominio que son de confianza
+NSLOOKUP	Muestra informacion sobre los servidores DNS asignados a tu conexion de red. Permite hacer peticiones a estos servidores. 
+« Ejemplos del uso de NSLOOKUP: Como usar el comando NSLOOKUP para probar y configurar los servidores DNS
+OCSETUP	Inicia Windows Optional Component Setup herramienta que instala opciones adicionales de Windows
+OPENFILES	Muestra archivos compartidos abiertos por usuarios remotos
+PATH	Muestra o establece una ruta de búsqueda para archivos ejecutables
+PAUSE	Pausa la consola y muestra un mensaje
+PING	Permite probar una conexión de red, enviando y recibiendo un paquete de datos.
+« Ejemplos del uso de PING: Como usar el comando PING en conexiones de redes
+POPD	Restaura el valor anterior del directorio actual guardado por PUSHD
+POWERSHELL	Ejecuta una instancia de Windows PowerShell, la nueva consola de comandos que incluye Windows en sistemas posteriores a Windows Vista.
+Al mostrarse PS en el símbolo de la consola significa que te encuentras en el entorno de PowerShell, por lo que introduzcas a partir de ese momento estará relacionado con este intérprete, para volver a la consola solo escribe CMD y presiona Enter.
+Mas información
+PRINT	Imprime un archivo de texto
+PROMPT	Cambia el símbolo de comandos de Windows
+PUSHD	Guarda el directorio actual y después lo cambia
+QAPPSRV	Muestra los servidores host de sesión de Escritorio remoto disponibles en la red
+QPROCESS	Muestra información sobre procesos
+QUERY	Muestra el status actual y los parametros de un servicio especifico
+QUSER	Mostrar información sobre los usuarios que han registrado la entrada en el sistema
+QWINSTA	Muestra información sobre las sesiones de Escritorio remoto
+RASDIAL	Es usado para iniciar o detener una conexion de acceso telefonico o dial up
+RD	Quita o elimina un directorio o carpeta
+RECOVER	Recupera la información legible de un disco dañado o defectuoso
+REG	Es usado para administrar todos los parámetros del Editor del Registro desde la línea de comandos y archivos batch. Es posible agregar, modificar claves, valores, exportar ramas, etc.
+El comando REG se compone de varios subcomandos, cada uno para un uso completamente diferente, son:
+REG QUERY, REG ADD, REG DELETE, REG COPY, REG SAVE , REG RESTORE, REG LOAD, REG UNLOAD, REG COMPARE, REG EXPORT, REG IMPORT y REG FLAGS 
+« Información y ejemplos del uso de REG: Como usar todos los subcomandos que permite REG
+REGEDIT	El comando REGEDIT permite importar, exportar o eliminar configuraciones en el registro desde un archivo de texto plano de extensión .reg.
+« Ejemplos del uso de REGEDIT: Como usar el comando REGEDIT
+REGSVR32	Registra librerias DLL para incorporarlas al registro
+RELOG	Relog crea nuevos registros de rendimiento a partir de datos de registros de rendimiento existentes cambiando el intervalo de muestreo o convirtiendo el formato de archivo. 
+Admite todos los formatos de registro de rendimiento, incluidos los registros comprimidos de Windows NT 4.0
+REM	Marca comentarios en archivos por lotes o CONFIG.SYS. La linea en un batch que comienza con REM es considerada un comentario
+REN	Cambia el nombre de uno o más archivos
+RENAME	Cambia el nombre de uno o más archivos, igual que el anterior
+REPLACE	Reemplaza archivos
+RMDIR	Quita un directorio
+ROBOCOPY	Utilidad avanzada para copiar carpetas y directorios en Windows. Permite realizar copias a la velocidad máxima que permite el hardware del equipo, superior a cualquier aplicación o programa de terceros.
+« Ejemplos del uso de ROBOCOPY: Como usar el comando Robocopy para copiar archivos y carpetas en Windows
+RESET SESSION	(Rwinsta) Volver a establecer el hardware y el software de subsistema de la sesión con los valores iniciales conocidos
+ROUTE	Manipula tablas de enrutamiento de red
+RPCPING	Hace ping al servidor mediante RPC
+RUNDLL32	Inicia funciones incluidas en librerías DLL del sistema.
+« Ejemplos: Como usar el comando RUNDLL32 en Windows, usos prácticos
+RUNAS	Es usado para ejecutar un programa utilizando credenciales o derechos de otro usuario
+
+
+
+SECEDIT	Analiza la seguridad del sistema y hace la comparacion con una plantilla determinada
+SET	Muestra, establece o elimina variables de entorno de Windows. Las variables creadas solo permanecerán durante la sesión creada con la consola.
+SETLOCAL	Comienza la sección de cambios locales de entorno en la consola
+SETVER	El comando SETVER se utiliza para establecer el número de versión de MS-DOS que se informa a un programa
+SETX	Crea o modifica variables de entorno en el entorno de usuario o de sistema. Los cambios se guardan en el Registro, por lo que las variables pueden usarse aun después de cerrar la sesión actual.
+Lee: Qué son las variables de entorno y sus usos prácticos
+SC	Muestra o configura servicios (procesos en segundo plano).
+« Ejemplos del uso de SC: Como administrar y ver los servicios con el comando SC
+SCHTASKS	Ejecuta el Programador de tareas. Programa comandos y programas para ejecutarse en un equipo.
+« Ejemplos del uso de SCHTASKS: Como programar tareas usando el comando SCHTASKS
+SFC	Comprobador de recursos de Microsoft, examina la integridad de todos los archivos de sistema protegidos y reemplaza las versiones incorrectas por las correctas de Microsoft desde una carpeta del sistema o el disco de instalación.
+Es la herramienta ideal para revisar y sustituir archivos dañados por programas, virus, cortes de energía, etc.
+Ejemplo del uso de SFC: Como revisar, reparar y sustituir archivos dañados de Windows con SFC
+SHADOW	Supervisar otra sesión de Servicios de Escritorio remoto
+SHARE	El comando SHARE se utiliza para bloquear archivos y funciones en MS-DOS
+SXSTRACE	Utilidad de seguimiento de WinSxs
+SHIFT	Cambia posición de modificadores reemplazables en archivos por lotes
+SHUTDOWN	Permite el apagado, reinicio, suspensión e hibernación local o remoto de un equipo con varias opciones, como el tiempo de espera, mensajes de información, cerrado forzado de aplicaciones, etc.
+« Mas información: Como usar el comando SHUTDOWN en el apagado de Windows
+SORT	Ordena los resultados de un comando seleccionado, por ejemplo los resultados de una busqueda con FIND
+START	START ejecuta e inicia programas, aplicaciones u otros comandos en Windows.
+« Mas información: Como usar el comando START en Windows, sus aplicaciones prácticas
+SUBST	Asocia una ruta de acceso con una letra de unidad
+SYSTEMINFO	Muestra las propiedades y la configuración específicas del equipo
+TAKEOWN	Esta herramienta permite que el administrador recupere el acceso a un archivo denegado mediante la reasignación de la propiedad del archivo.
+« Un ejemplo: Como usar TAKEOWN para obtener los permisos de una carpeta de sistema
+TASKLIST	Muestra todos los procesos ejecutándose en el equipo con el número de identidad del proceso (PID) y la memoria que utilizan.
+« Mas información: Como usar el comando TASKLIST en Windows
+TASKKILL	Permite detener tareas o procesos usando el PID (número de identidad del proceso) o el nombre.
+« Mas información: Como usar el comando TASKKILL en Windows
+TCMSETUP	Es usado para configurar o deshabilitar el cliente de telefonia Telephony Application Programming Interface (TAPI)
+TIME	Muestra o establece la hora del sistema
+TIMEOUT	Esta utilidad acepta un parámetro de tiempo de espera para esperar el un período de tiempo determinado (en segundos) o hasta que se presióna alguna tecla. También acepta un parámetro para omitir la presión de tecla
+TITLE	Establece el título de la ventana de una sesión de CMD.EXE
+TRACERPT	El comando TRACERPT se utiliza para procesar los registros de seguimiento de sucesos o datos en tiempo real
+TRACERT	Permite hacer un seguimiento de la ruta entre un equipo y otro en la red, es muy utilizado para conocer dónde se ha detenido un paquete de datos en la red.
+« Ejemplos del uso de TRACERT: Como usar el comando TRACERT, trazar una ruta en la red.
+TREE	Muestra gráficamente la estructura de directorios de una unidad o ruta de acceso
+TSDISCON	Desconecta una sesión de Escritorio remoto
+TSKILL	Termina un proceso
+TYPE	Muestra el contenido de un archivo de texto
+TYPEPERF	Typeperf escribe información de rendimiento en la ventana de comandos o en un archivo de registro. Para detener Typeperf presione CTRL+C
+TZUTIL	Utilidad de zona horaria de Windows
+UNLODCTR	Quita el nombre de contador y texto explicativo para el contador extensible especificado
+VER	Muestra la versión de Windows
+VERIFIER	Inicia el "Verificador de drivers de Windows", herramienta para comprobar el funcionamiento de los controladores instalados en el sistema.
+Nos permite conocer si alguno de ellos es la causa de conflictos, reinicios inesperados o errores de pantalla azul.
+« Ejemplos del uso de VERIFIER: Como verificar y comprobar los drivers y controladores instalados en Windows
+VERIFY	Comunica a Windows si debe comprobar que los archivos se escriben de forma correcta en un disco
+VOL	Muestra la etiqueta del volumen y el número de serie del disco
+VSSADMIN	Herramienta administrativa del Servicio de instantáneas de volumen, las imágenes creadas por Windows para la función Restaurar sistema.
+Por ejemplo, para listar todas las imágenes existentes usa: VSSADMIN list shadows
+W32TM	Herramienta usada para diagnosticar conflictos del equipo local o de uno en la red con el servicio Hora de Windows (Windows time) al tratar de sincronizar o de actualizar el reloj del sistema
+WAITFOR	Esta herramienta envía o espera a que llegue una señal en un sistema. Si no se especifica /S la señal se difundirá a todos los sistema de un dominio. Si se especifica /S la señal sólo se enviará al dominio especificado
+WBADMIN	Herramienta de línea de comandos de copia de seguridad
+WEVTUTIL	Utilidad de línea de comandos de eventos de Windows. Permite recuperar información acerca de registros de eventos y publicadores, instalar y desinstalar manifiestos de eventos, ejecutar consultas y exportar, archivar y borrar registros
+WHERE	Muestra la ubicación de archivos que coinciden con el patrón de búsqueda. De manera predeterminada, la búsqueda se realiza en el directorio actual y en las rutas especificadas por la variable de entorno PATH
+WHOAMI	Esta utilidad se puede usar para obtener el destino de información de grupo y nombre de usuario junto con los respectivos identificadores de seguridad (SID), privilegios, identificador de inicio de sesión (Id. de inicio de sesión) del usuario actual (testigo de acceso) en el sistema local. Es decir, quién es el usuario actualmente conectado. Si no se especifica ningún modificador, la herramienta muestra nombre de usuario en formato NTLM (dominio\nombre_usuario)
+WINHLP32	Ejecuta los archivos de ayuda de Windows que usan la extensión HLP
+WINRM	Herramienta de la línea de comandos de Administración remota de Windows Administración remota de Windows (WinRM) es la implementación de Microsoft del protocolo WS-Management, que proporciona una forma segura de comunicarse con equipos locales y remotos mediante servicios web
+WINRS	Abre una ventana de comandos en modo seguro con un equipo en la red
+WINSAT	Herramienta de evaluación del sistema de Windows. Permite comprobar y conocer las posibilidades de los principales componentes de la computadora, como la CPU, memoria, disco y video.
+« Ejemplos del uso de WINSAT: Como usar el comando WINSAT para saber el rendimiento de la computadora
+WMIC	Muestra información de WMI en el shell de comandos interactivo. Permite acceder a todo tipo de informaciones, tanto de el equipo local o a otro en la red, enumera todos los datos del hardware y del software desponibles
+« Ejemplos del uso de WMIC: Obtener información sobre el hardware y software de la PC mediante WMIC
+XCOPY	Copia archivos y árboles de directorios
