@@ -1,34 +1,52 @@
 Preguntas:
 Maquina Virtual para laravel:
-
+Yolo :) homestead I
 Servidor local más comun para laravel:
-
+Yolo :) II xampp
 paquetes más importantes que incluye xampp
-
+Victor :)  I 
 que es php
-
+Victor II :)
 que es mysql
-
+Python I :)
 que es apache
-
+Victor III :)
 que es composer
-
+Adan I :)
 comando para inicializar sql 
-
+Toño I 
 que es una base de datos 
-
+Geras :) I
 direccion donde esta mysql
-
+Victor IV :)
 coamndo para crear una base de datos
-
+Chuy I :)
 comando para crear una tabla
+Chuy II :)
+Chuy III :) 
 
 hacer una consulta que muestre solo los nombres de la tabla alumnos
-
+Adan II :)
+Victor V :)
 agregar un campo a una tabla alumnos
-
+Yolo III :)
+Adan III :)
 ingresar un registro
+Victor VI
+adan iv
+python III :)
+chuy IV
+adan iv
+python iv
+chuy v
+toño i
 
-
+toño I
+ERICK I
+Yolo IV
+chuy silver I II
+victor silver I V
+python silver I  
+adan silver I
 
  

@@ -1,0 +1,39 @@
+Rangos para playera:
+Erick I
+Toño I
+Yolo IV
+Python silver I Puntos: 0
+Adan silver I Puntos: 0
+Víctor silver I Puntos:  V
+
+Preguntas II:
+Que es homestead?
+python I
+Que es artisan?
+chuy I
+en que ubicacion se deben de crear los proyectos en laravel
+adan i
+que hace el comando laravel new proyecto
+toño i
+que es apache
+victor i
+donde esta ubicado el archivo routes.php
+erick i
+Como se distingue una ruta sin controlador
+erick ii
+Como se distingue una ruta con parametros
+victor i
+Como se distingue una ruta con parametros opcionales
+toño ii
+Cuales son las 3 carpetas mas importantes cuando se genera un proyecto en laravel
+adan i
+que es laravel?
+toño i
+que es una base de datos?
+
+....-------------..............
+
+Crear en laravel un programa en donde pueda poner de uno a 5 numeros en una ruta, y me diga que numero es el menor
+
+victor i
+erick -1-1

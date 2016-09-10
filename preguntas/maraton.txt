@@ -1,0 +1,33 @@
+Maquina Virtual para laravel:
+Servidor local más comun para laravel:
+paquetes más importantes que incluye xampp
+que es php
+que es mysql
+que es apache
+que es composer
+comando para inicializar sql 
+que es una base de datos 
+direccion donde esta mysql
+coamndo para crear una base de datos
+comando para crear una tabla
+hacer una consulta que muestre solo los nombres de la tabla alumnos
+agregar un campo a una tabla alumnos
+ingresar un registro
+Que es artisan?
+en que ubicacion se deben de crear los proyectos en laravel
+que hace el comando laravel new proyecto
+donde esta ubicado el archivo routes.php
+Como se distingue una ruta sin controlador
+Como se distingue una ruta con parametros
+Como se distingue una ruta con parametros opcionales
+Cuales son las 3 carpetas mas importantes cuando se genera un proyecto en laravel
+que es laravel?
+que es una base de datos?
+Etiqueta br
+Etiqueta hr
+Etiqueta a
+En donde se ocupa el atributo href, en que etiqueta
+Que es diseño responsivo
+que es boostrap
+que es CCS3
+para que sirven las cajas
